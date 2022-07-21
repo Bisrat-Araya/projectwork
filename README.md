@@ -7,3 +7,6 @@ To start the binder, which will set up the environment and build the form, use t
 Click the Binder button to go to the AHP form.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bisrat-Araya/projectwork/master/?filepath=AHP_form.ipynb)
 
+![Screenshot 1](./imgs/screenshot_1.jpeg)
+![Screenshot 2](./imgs/screenshot_2.jpeg)
+![Screenshot 3](./imgs/screenshot_3.jpeg)
